@@ -25,3 +25,9 @@ Place "{{Column Name}}" as a placeholder, where the script will replace it with 
 8. Enter the Email Subject
 9. Check the information and enter y to send
 10. The draft of the email will show in the window of Outlook
+
+## Other
+Artificial intelligence tools were used to assist in developing this project. 
+AI support included code suggestions, refactoring assistance, documentation drafting, 
+and debugging guidance. All generated content was reviewed, modified, and validated 
+by the author before inclusion.

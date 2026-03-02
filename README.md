@@ -9,6 +9,7 @@ The .exe file is in the dist folder, feel free to run it as Python or repackage 
 ## Restriction
 - The script can only run on window operating system.
 - The file needs to be closed when using
+- picture cannot be load in the email
 
 ## Instruction
 ### Email Template Format
